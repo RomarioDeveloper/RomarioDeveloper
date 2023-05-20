@@ -1,7 +1,7 @@
 
 
 ### Portfolio  
-<img src="https://i.pinimg.com/originals/2f/aa/ca/2faaca5e29fcb8145de64db0ca9bfefa.png" align="left" style="width: 100%" />  
+<!-- <img src="https://i.pinimg.com/originals/2f/aa/ca/2faaca5e29fcb8145de64db0ca9bfefa.png" align="left" style="width: 100%" />   -->
   
 
 ##### ***<div align="center">Romario</div>***  
