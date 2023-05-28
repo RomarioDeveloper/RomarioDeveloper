@@ -9,6 +9,7 @@
 
 ***<div align="center">Python Developer✔️</div>***  
   
+***<div align="center">participant of the largest web3 hackathon in central asia decentrathon 2023✔️</div>***
 
 ***<div align="center">FrontEnd Developer ✔️</div>***  
   
